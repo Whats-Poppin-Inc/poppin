@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# poppin
+A coordinated game shortcut service
+
+# Specifications
+1. Prompts user on first-run to list all of their game install directories and/or the game library services they use.
+2. Build list of all game shortcuts on every run. 
+3. SHow the user a list of their games including the game title, title picture, source library (if any), and a play button.
+4. Video Game
+
+>>>>>>> ae5db01100f7915a0b573518249381fda72ee8ea
